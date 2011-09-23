@@ -1,0 +1,5 @@
+In this repository are two Xcode projects. The first project, "example" is an example of how to create a framework useable with iOS that can be distributed to other developers.  The second, "exampleUsingFramework" is a standard iOS app that uses the framework.
+
+For step-by-step instructions on how to create a framework view my blog: http://codefriend.blogspot.com/2011/09/creating-ios-framework-with-xcode4.html#more
+
+I am in no way responsible for how you use this information.
